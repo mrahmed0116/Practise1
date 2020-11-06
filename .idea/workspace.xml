@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a8b146-c524-4777-b838-de4db5610a59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/commonprefixes.py" beforeDir="false" afterPath="$PROJECT_DIR$/commonprefixes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   <component name="ProjectId" id="1jvdvmSSgQNh23FlBpfmA4GOZty" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
@@ -178,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604701994806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made few changes">
+      <created>1604702339682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604702339682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="made few changes">
+      <created>1604702378263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604702378263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="made few changes">
+      <created>1604702411314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604702411314</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +216,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just added comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="just added comments" />
+    <MESSAGE value="made few changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="made few changes" />
   </component>
 </project>
