@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a8b146-c524-4777-b838-de4db5610a59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonprefixes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ospathprog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromesentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortbasedonvalues.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frames.py" beforeDir="false" afterPath="$PROJECT_DIR$/Frames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new1.py" beforeDir="false" afterPath="$PROJECT_DIR$/new1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new3.py" beforeDir="false" afterPath="$PROJECT_DIR$/new3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new4.py" beforeDir="false" afterPath="$PROJECT_DIR$/new4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new5.py" beforeDir="false" afterPath="$PROJECT_DIR$/new5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new6.py" beforeDir="false" afterPath="$PROJECT_DIR$/new6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new7.py" beforeDir="false" afterPath="$PROJECT_DIR$/new7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primenumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/primenumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe.py" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new2.py" beforeDir="false" afterPath="$PROJECT_DIR$/new2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +44,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tictactoe">
-    <configuration name="Excercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.palindrome">
+    <configuration name="commonprefixes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commonprefixes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Frames" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ospathprog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frames.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ospathprog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="palindromesentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindromesentence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sortbasedonvalues" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tictactoe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortbasedonvalues.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tictactoe" />
-        <item itemvalue="Python.new5" />
-        <item itemvalue="Python.Frames" />
-        <item itemvalue="Python.Excercise" />
-        <item itemvalue="Python.new7" />
+        <item itemvalue="Python.palindrome" />
+        <item itemvalue="Python.ospathprog" />
+        <item itemvalue="Python.commonprefixes" />
+        <item itemvalue="Python.sortbasedonvalues" />
+        <item itemvalue="Python.palindromesentence" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +171,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604688731329</updated>
     </task>
+    <task id="LOCAL-00001" summary="just added comments">
+      <created>1604693183175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604693183175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just added comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="just added comments" />
   </component>
 </project>
