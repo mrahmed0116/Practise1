@@ -1,3 +1,7 @@
+'''
+If a list of strings is given, find all common prefix
+'''
+
 s1= ['hello','world', 'listen to me','', 'hell with you','','wor anbotan','listening to music', 'Janet', '']
 s2=sorted(s1)
 print(s2)
