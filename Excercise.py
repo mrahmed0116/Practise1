@@ -1,4 +1,8 @@
-list1 = ['1','2','2','3','4','4', '5','5', '6','6']
+'''
+Code for print the most repeated numbers in a list
+'''
+
+list1 = ['1','2','2','3','4','4', '5','5', '6']
 dict1={}
 for x in list1:
     if x not in dict1:

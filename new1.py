@@ -1,3 +1,7 @@
+'''
+Given 2 Lists and a target. Find how many combinations can be found
+'''
+
 x = [1,2,3,4,5,6,8,10]
 y= [11,12,14,15,18,20]
 middle_x = (0+len(x))//2

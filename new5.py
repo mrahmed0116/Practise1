@@ -1,3 +1,7 @@
+'''
+Given a list of strings, find the most common prefix
+'''
+
 strs= ["flower","flow","flight","florida","fling","floozie"]
 str0 = strs[0]
 count=0

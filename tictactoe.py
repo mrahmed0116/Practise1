@@ -1,12 +1,18 @@
+'''
+Tic tac toe game
+'''
+lines = "-------------"
 cells= [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 game=0
 winner = ' '
 def output(cells):
-    print("---------")
-    print("| " + cells[0] + " " + cells[1] + " " + cells[2] + " |")
-    print("| " + cells[3] + " " + cells[4] + " " + cells[5] + " |")
-    print("| " + cells[6] + " " + cells[7] + " " + cells[8] + " |")
-    print("---------")
+    print(lines)
+    print("| " + cells[0] + " | " + cells[1] + " | " + cells[2] + " |")
+    print(lines)
+    print("| " + cells[3] + " | " + cells[4] + " | " + cells[5] + " |")
+    print(lines)
+    print("| " + cells[6] + " | " + cells[7] + " | " + cells[8] + " |")
+    print(lines)
 def check(cells1):
     winner = ' '
     game = 0

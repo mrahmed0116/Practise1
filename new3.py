@@ -1,3 +1,7 @@
+'''
+Given a String of Parenthesis, Check if it is Valid or not
+'''
+
 def isValid(s):
     if len(s) % 2 != 0:
         return False
