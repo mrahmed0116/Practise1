@@ -4,15 +4,18 @@ New version using Stacks
 '''
 
 def find(str1):
-   temp = {'(': ')', '{':'}', '[':']'}
-   l = []
-   for s in str1:
-       if s in temp:
-           l.append(s)
-       else:
-           if not l:
-               return False
-           cur = l.pop()
-           if temp[s] != s:
-               return False
-   return True
+    temp = {'(': ')', '{': '}', '[': ']'}
+    l = []
+    for s in str1:
+        if s in temp:
+            l.append(s)
+        else:
+            if not l:
+                return False
+            if temp[s] != s:
+                return False
+            l.pop()
+    return True
+
+s1= "{[([]{}())}"
+print(find(s1))
