@@ -1,6 +1,17 @@
+'''
+OS funtions and to use them for file manipulation - file size determination
+'''
+
 import os
 os.chdir('C:\Train\PIC')
-byte_size= {'K':1024,'M':1024*1024,'G':1024*1024*1024}
+byte_size= {'K':1000,'M':1000*1000,'G':1000*1000*1000}
+file_list={}
+for i in os.listdir():
+    if os.path.isfile(i):
+        file_list[i] = os.stat(i).st_size
+
+print(file_list)
+'''
 target = '600GB'
 target_new= 0
 if target[-1] == 'B':
@@ -16,6 +27,7 @@ subdirectory1={}
 nosubdir = True
 while nosubdir == True:
     for i in os.listdir():
+    
         if os.path.isfile(i):
             file_list[i] = os.stat(i).st_size
         elif os.path.isdir(i):
@@ -24,3 +36,5 @@ while nosubdir == True:
                 nosub = False
 
 print(file_list)
+
+'''
