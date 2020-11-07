@@ -1,5 +1,5 @@
 '''
-Tic tac toe game
+Tic tac toe game when using a coursework
 '''
 lines = "-------------"
 cells= [' ',' ',' ',' ',' ',' ',' ',' ',' ']
